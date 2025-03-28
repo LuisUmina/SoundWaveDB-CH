@@ -19,9 +19,9 @@ INSERT INTO genero (id, nombre) VALUES
 INSERT INTO usuario (id, nombre, email, pais) VALUES
 (1, 'Ana Perez', 'ana.perez@example.com', 'Argentina'),
 (2, 'Luis Gomez', 'luis.gomez@example.com', 'Chile'),
-(3, 'María López', 'maria.lopez@example.com', 'Colombia'),
-(4, 'Juan Torres', 'juan.torres@example.com', 'Perú'),
-(5, 'Carlos Diaz', 'carlos.diaz@example.com', 'México'),
+(3, 'María Lopez', 'maria.lopez@example.com', 'Colombia'),
+(4, 'Juan Torres', 'juan.torres@example.com', 'Peru'),
+(5, 'Carlos Diaz', 'carlos.diaz@example.com', 'Mexico'),
 (6, 'Sofía Ruiz', 'sofia.ruiz@example.com', 'España'),
 (7, 'Diego Martinez', 'diego.martinez@example.com', 'Argentina'),
 (8, 'Laura Sanchez', 'laura.sanchez@example.com', 'Brasil'),
